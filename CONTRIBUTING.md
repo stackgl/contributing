@@ -35,8 +35,9 @@ have something valuable to add or change.
 
 stackgl is only possible thanks to the excellent work of the following contributors:
 
-|                                            | Twitter                                            | GitHub                                              |
-| ------------------------------------------ | -------------------------------------------------- | --------------------------------------------------- |
-| [**Mikola Lysenko**](http://0fps.net/)     | [@mikolalysenko](http://twitter.com/mikolalysenko) | [mikolalysenko](http://github.com/mikolalysenko)    |
-| [**Chris Dickinson**](http://neversaw.us/) | [@isntitvacant](http://twitter.com/isntitvacant)   | [chrisdickinson](http://github.com/chrisdickinson)  |
-| [**Hugh Kennedy**](http://hughsk.io/)      | [@hughskennedy](http://twitter.com/hughskennedy)   | [hughsk](http://github.com/hughsk)                  |
+|                                                    | Twitter                                            | GitHub                                              |
+| -------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- |
+| [**Mikola Lysenko**](http://0fps.net/)             | [@mikolalysenko](http://twitter.com/mikolalysenko) | [mikolalysenko](http://github.com/mikolalysenko)    |
+| [**Chris Dickinson**](http://neversaw.us/)         | [@isntitvacant](http://twitter.com/isntitvacant)   | [chrisdickinson](http://github.com/chrisdickinson)  |
+| [**Hugh Kennedy**](http://hughsk.io/)              | [@hughskennedy](http://twitter.com/hughskennedy)   | [hughsk](http://github.com/hughsk)                  |
+| [**Matt DesLauriers**](http://github.com/mattdesl) | [@mattdesl](http://twitter.com/mattdesl)           | [mattdesl](http://github.com/mattdesl)
